@@ -57,7 +57,7 @@
     border: 1px solid #333;
 }
 #id {
-    background-image: url(image/backgroundimg.jpeg);
+    background-image: url(backgroundimg.jpeg);
     background-size: cover;
     background-position: center;
     height: 100vh;
